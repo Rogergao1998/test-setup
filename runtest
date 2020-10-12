@@ -1,0 +1,14 @@
+#!/bin/bash
+echo ================
+echo git version:
+git --version
+echo ================
+echo g++ version:
+g++ --version
+echo ================
+echo CMake version:
+cmake --version
+echo ================
+echo Doxygen version:
+doxygen --version
+echo ================
